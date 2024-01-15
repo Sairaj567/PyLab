@@ -10,8 +10,8 @@ print(pets)
 print(pets[1])
 
 #extend
-a = "aayush"
-pets.extend(a)
+humans = ["praveen", "Pranav"]
+pets.extend(humans)
 print(pets)
 
 #remove
